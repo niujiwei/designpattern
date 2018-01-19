@@ -6,6 +6,6 @@ package com.niujiwei.group;
  */
 public class App {
     public static void main(String[] args) {
-        System.out.println("Hello World!-develop---11");
+        System.out.println("----Hello World!-develop");
     }
 }
