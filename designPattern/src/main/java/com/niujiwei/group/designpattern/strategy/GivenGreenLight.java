@@ -1,4 +1,4 @@
-package com.niujiwei.group.designpattern.strategypattern;
+package com.niujiwei.group.designpattern.strategy;
 
 /**
  * 这是另一个计谋

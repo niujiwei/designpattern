@@ -1,4 +1,4 @@
-package com.niujiwei.group.designpattern.strategypattern;
+package com.niujiwei.group.designpattern.strategy;
 
 /**
  * 这是一个包裹装锦囊
